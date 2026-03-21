@@ -106,7 +106,6 @@ function App() {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer ${import.meta.env.VITE_HF_TOKEN}`,
               },
               body: JSON.stringify({
                 aptitudes: {
