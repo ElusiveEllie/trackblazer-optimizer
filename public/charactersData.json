@@ -1,0 +1,1627 @@
+[
+  {
+    "name_en": "Special Week",
+    "id": 1001,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Silence Suzuka",
+    "id": 1002,
+    "aptitude": [
+      "A",
+      "G",
+      "D",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Tokai Teio",
+    "id": 1003,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "E",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Maruzensky",
+    "id": 1004,
+    "aptitude": [
+      "A",
+      "D",
+      "B",
+      "A",
+      "B",
+      "C"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Fuji Kiseki",
+    "id": 1005,
+    "aptitude": [
+      "A",
+      "F",
+      "B",
+      "A",
+      "B",
+      "E"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Oguri Cap",
+    "id": 1006,
+    "aptitude": [
+      "A",
+      "B",
+      "E",
+      "A",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Gold Ship",
+    "id": 1007,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Vodka",
+    "id": 1008,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Daiwa Scarlet",
+    "id": 1009,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "A",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Taiki Shuttle",
+    "id": 1010,
+    "aptitude": [
+      "A",
+      "B",
+      "A",
+      "A",
+      "E",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Grass Wonder",
+    "id": 1011,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "B",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Hishi Amazon",
+    "id": 1012,
+    "aptitude": [
+      "A",
+      "E",
+      "D",
+      "A",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mejiro McQueen",
+    "id": 1013,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "F",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "El Condor Pasa",
+    "id": 1014,
+    "aptitude": [
+      "A",
+      "B",
+      "F",
+      "A",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "TM Opera O",
+    "id": 1015,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Narita Brian",
+    "id": 1016,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "B",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Symboli Rudolf",
+    "id": 1017,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Air Groove",
+    "id": 1018,
+    "aptitude": [
+      "A",
+      "G",
+      "C",
+      "B",
+      "A",
+      "E"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Agnes Digital",
+    "id": 1019,
+    "aptitude": [
+      "A",
+      "A",
+      "F",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Seiun Sky",
+    "id": 1020,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Biwa Hayahide",
+    "id": 1023,
+    "aptitude": [
+      "A",
+      "F",
+      "F",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mayano Top Gun",
+    "id": 1024,
+    "aptitude": [
+      "A",
+      "E",
+      "D",
+      "D",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mihono Bourbon",
+    "id": 1026,
+    "aptitude": [
+      "A",
+      "G",
+      "C",
+      "B",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mejiro Ryan",
+    "id": 1027,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "C",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Hishi Akebono",
+    "id": 1028,
+    "aptitude": [
+      "A",
+      "F",
+      "A",
+      "B",
+      "F",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Rice Shower",
+    "id": 1030,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Agnes Tachyon",
+    "id": 1032,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "D",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Winning Ticket",
+    "id": 1035,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Eishin Flash",
+    "id": 1037,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Curren Chan",
+    "id": 1038,
+    "aptitude": [
+      "A",
+      "F",
+      "A",
+      "D",
+      "G",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Gold City",
+    "id": 1040,
+    "aptitude": [
+      "A",
+      "D",
+      "F",
+      "A",
+      "B",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Sakura Bakushin O",
+    "id": 1041,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "B",
+      "G",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Super Creek",
+    "id": 1045,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "G",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Smart Falcon",
+    "id": 1046,
+    "aptitude": [
+      "E",
+      "A",
+      "B",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Narita Taishin",
+    "id": 1050,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "D",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Haru Urara",
+    "id": 1052,
+    "aptitude": [
+      "G",
+      "A",
+      "A",
+      "B",
+      "G",
+      "G"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Matikanefukukitaru",
+    "id": 1056,
+    "aptitude": [
+      "A",
+      "F",
+      "F",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Meisho Doto",
+    "id": 1058,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "F",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Nice Nature",
+    "id": 1060,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "King Halo",
+    "id": 1061,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "B",
+      "B",
+      "C"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Kawakami Princess",
+    "id": 1039,
+    "aptitude": [
+      "A",
+      "G",
+      "D",
+      "B",
+      "A",
+      "F"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Manhattan Cafe",
+    "id": 1025,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "B",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Tosen Jordan",
+    "id": 1048,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "A",
+      "B"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mejiro Dober",
+    "id": 1059,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Fine Motion",
+    "id": 1022,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "A",
+      "A",
+      "C"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Tamamo Cross",
+    "id": 1021,
+    "aptitude": [
+      "A",
+      "F",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Sakura Chiyono O",
+    "id": 1069,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Mejiro Ardan",
+    "id": 1071,
+    "aptitude": [
+      "A",
+      "F",
+      "E",
+      "B",
+      "A",
+      "D"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Admire Vega",
+    "id": 1033,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "C",
+      "A",
+      "C"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Matikanetannhauser",
+    "id": 1062,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "D",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Kitasan Black",
+    "id": 1068,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": true
+  },
+  {
+    "name_en": "Satono Diamond",
+    "id": 1067,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Mejiro Bright",
+    "id": 1074,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Nishino Flower",
+    "id": 1051,
+    "aptitude": [
+      "A",
+      "F",
+      "A",
+      "A",
+      "E",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Yaeno Muteki",
+    "id": 1072,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "B",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Ines Fujin",
+    "id": 1031,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Mejiro Palmer",
+    "id": 1064,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Inari One",
+    "id": 1034,
+    "aptitude": [
+      "A",
+      "A",
+      "F",
+      "B",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Sweep Tosho",
+    "id": 1044,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "A",
+      "A",
+      "D"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Air Shakur",
+    "id": 1036,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Bamboo Memory",
+    "id": 1053,
+    "aptitude": [
+      "A",
+      "D",
+      "A",
+      "A",
+      "C",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Copano Rickey",
+    "id": 1098,
+    "aptitude": [
+      "F",
+      "A",
+      "C",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Yukino Bijin",
+    "id": 1029,
+    "aptitude": [
+      "A",
+      "B",
+      "D",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Seeking the Pearl",
+    "id": 1042,
+    "aptitude": [
+      "A",
+      "F",
+      "A",
+      "A",
+      "E",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Aston Machan",
+    "id": 1087,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "B",
+      "G",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Yamanin Zephyr",
+    "id": 1078,
+    "aptitude": [
+      "A",
+      "D",
+      "B",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Nakayama Festa",
+    "id": 1049,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "B"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Wonder Acute",
+    "id": 1100,
+    "aptitude": [
+      "G",
+      "A",
+      "D",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Zenno Rob Roy",
+    "id": 1047,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Hokko Tarumae",
+    "id": 1099,
+    "aptitude": [
+      "G",
+      "A",
+      "F",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Daitaku Helios",
+    "id": 1065,
+    "aptitude": [
+      "A",
+      "G",
+      "B",
+      "A",
+      "B",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Shinko Windy",
+    "id": 1043,
+    "aptitude": [
+      "F",
+      "A",
+      "C",
+      "A",
+      "B",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Mr. C.B.",
+    "id": 1057,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Twin Turbo",
+    "id": 1066,
+    "aptitude": [
+      "A",
+      "F",
+      "G",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Daiichi Ruby",
+    "id": 1085,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "A",
+      "C",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Symboli Kris S",
+    "id": 1083,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Sakura Laurel",
+    "id": 1076,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Neo Universe",
+    "id": 1105,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "B",
+      "A",
+      "B"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Hishi Miracle",
+    "id": 1106,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "G",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Tanino Gimlet",
+    "id": 1084,
+    "aptitude": [
+      "A",
+      "F",
+      "F",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Marvelous Sunday",
+    "id": 1055,
+    "aptitude": [
+      "A",
+      "F",
+      "G",
+      "C",
+      "A",
+      "B"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Katsuragi Ace",
+    "id": 1104,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "B",
+      "A",
+      "B"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Sirius Symboli",
+    "id": 1070,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Narita Top Road",
+    "id": 1077,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "K.S.Miracle",
+    "id": 1093,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "B",
+      "G",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Mejiro Ramonu",
+    "id": 1086,
+    "aptitude": [
+      "A",
+      "F",
+      "B",
+      "A",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Tap Dance City",
+    "id": 1107,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Satono Crown",
+    "id": 1088,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Cheval Grand",
+    "id": 1089,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "G",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Vivlos",
+    "id": 1091,
+    "aptitude": [
+      "A",
+      "G",
+      "E",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Biko Pegasus",
+    "id": 1054,
+    "aptitude": [
+      "A",
+      "E",
+      "A",
+      "B",
+      "G",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Ikuno Dictus",
+    "id": 1063,
+    "aptitude": [
+      "A",
+      "G",
+      "D",
+      "A",
+      "A",
+      "D"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Duramente",
+    "id": 1108,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Transcend",
+    "id": 1080,
+    "aptitude": [
+      "F",
+      "A",
+      "G",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Rhein Kraft",
+    "id": 1109,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "A",
+      "B",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Sounds of Earth",
+    "id": 1102,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "F",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "North Flight",
+    "id": 1082,
+    "aptitude": [
+      "A",
+      "G",
+      "C",
+      "A",
+      "B",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Jungle Pocket",
+    "id": 1094,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "B"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Dream Journey",
+    "id": 1119,
+    "aptitude": [
+      "A",
+      "G",
+      "F",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Calstone Light O",
+    "id": 1120,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "D",
+      "G",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Gentildonna",
+    "id": 1116,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Cesario",
+    "id": 1110,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Durandal",
+    "id": 1121,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "A",
+      "F",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Bubble Gum Fellow",
+    "id": 1124,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Air Messiah",
+    "id": 1111,
+    "aptitude": [
+      "A",
+      "G",
+      "C",
+      "B",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Win Variation",
+    "id": 1117,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "E",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Furioso",
+    "id": 1079,
+    "aptitude": [
+      "G",
+      "A",
+      "F",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Tsurumaru Tsuyoshi",
+    "id": 1073,
+    "aptitude": [
+      "A",
+      "F",
+      "F",
+      "D",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Orfevre",
+    "id": 1115,
+    "aptitude": [
+      "A",
+      "D",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Gran Alegria",
+    "id": 1131,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "A",
+      "C",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "No Reason",
+    "id": 1096,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Fenomeno",
+    "id": 1127,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "G",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Verxina",
+    "id": 1090,
+    "aptitude": [
+      "A",
+      "G",
+      "D",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Loves Only You",
+    "id": 1132,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "F"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Chrono Genesis",
+    "id": 1133,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Fusaichi Pandora",
+    "id": 1113,
+    "aptitude": [
+      "A",
+      "E",
+      "G",
+      "B",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Still in Love",
+    "id": 1097,
+    "aptitude": [
+      "A",
+      "G",
+      "C",
+      "A",
+      "A",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Espoir City",
+    "id": 1081,
+    "aptitude": [
+      "E",
+      "A",
+      "A",
+      "A",
+      "B",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Believe",
+    "id": 1095,
+    "aptitude": [
+      "A",
+      "G",
+      "A",
+      "D",
+      "G",
+      "G"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Dantsu Flame",
+    "id": 1092,
+    "aptitude": [
+      "A",
+      "F",
+      "E",
+      "B",
+      "A",
+      "D"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Buena Vista",
+    "id": 1114,
+    "aptitude": [
+      "A",
+      "F",
+      "G",
+      "A",
+      "A",
+      "C"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Stay Gold",
+    "id": 1135,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "G",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Kiseki",
+    "id": 1137,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "C",
+      "A",
+      "A"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Royce and Royce",
+    "id": 1103,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "B",
+      "A",
+      "E"
+    ],
+    "released": false
+  },
+  {
+    "name_en": "Almond Eye",
+    "id": 1129,
+    "aptitude": [
+      "A",
+      "G",
+      "G",
+      "A",
+      "A",
+      "F"
+    ],
+    "released": false
+  }
+]
