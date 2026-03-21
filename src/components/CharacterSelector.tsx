@@ -10,9 +10,9 @@ interface CharacterSelectorProps {
 
 function getCharacterImagePath(character: Character | null): string {
   if (!character || !character.id) {
-    return '/src/assets/chara/1000.png';
+    return `${import.meta.env.BASE_URL}chara/1000.png`;
   }
-  return `/src/assets/chara/${character.id}.png`;
+  return `${import.meta.env.BASE_URL}chara/${character.id}.png`;
 }
 
 // Module-level cache — survives StrictMode double-mount so images are only preloaded once
@@ -88,7 +88,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
             alt={selectedCharacter ? selectedCharacter.name_en : "Select Character"}
             className="w-20 h-20 rounded-lg"
             onError={(e) => {
-              e.currentTarget.src = '/src/assets/chara/1000.png';
+              e.currentTarget.src = `${import.meta.env.BASE_URL}chara/1000.png`;
             }}
           />
         </button>
@@ -137,7 +137,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
                     alt={character.name_en}
                     className="w-[60px] h-[60px] rounded pointer-events-none"
                     onError={(e) => {
-                      e.currentTarget.src = '/src/assets/chara/1000.png';
+                      e.currentTarget.src = `${import.meta.env.BASE_URL}chara/1000.png`;
                     }}
                   />
                   <div className="text-xs mt-1 pointer-events-none">
