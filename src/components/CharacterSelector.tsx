@@ -33,7 +33,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('/charactersData.json')
+    fetch(`${import.meta.env.BASE_URL}charactersData.json`)
       .then(response => response.json())
       .then(data => {
         const releasedCharacters = data.filter((character: Character) => character.released);

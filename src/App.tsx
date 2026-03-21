@@ -19,7 +19,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/charactersData.json')
+    fetch(`${import.meta.env.BASE_URL}charactersData.json`)
       .then(response => {
         return response.json();
       })
