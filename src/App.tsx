@@ -61,7 +61,7 @@ function App() {
 
   return (
     <div className="p-5">
-      <h1>Uma Race Optimizer</h1>
+      <h1>TrackOptimizer - Make A New Ace!</h1>
 
       <CharacterSelector
         selectedCharacter={selectedCharacter}
