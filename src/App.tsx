@@ -1,5 +1,5 @@
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { CharacterSelector, AptitudeSelector, ResultsDisplay } from './components';
 import type { Character, Aptitudes, OptimizeResult } from './types/Interfaces';
 
@@ -17,6 +17,19 @@ function App() {
   const [cutoff, setCutoff] = useState<string>('B');
   const [optimizeResult, setOptimizeResult] = useState<OptimizeResult | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const resultsRef = useRef<HTMLDivElement>(null);
+  const [isDark, setIsDark] = useState(() => localStorage.getItem('theme') === 'dark');
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', isDark);
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  }, [isDark]);
+
+  useEffect(() => {
+    if (optimizeResult) {
+      resultsRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }
+  }, [optimizeResult]);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}charactersData.json`)
@@ -60,7 +73,13 @@ function App() {
   }
 
   return (
-    <div className="p-5">
+    <div className="relative p-5">
+      <button
+        onClick={() => setIsDark(d => !d)}
+        className="absolute top-5 left-5 bg-transparent border-none cursor-pointer text-2xl p-1"
+      >
+        {isDark ? '🌙' : '☀️'}
+      </button>
       <h1>TrackOptimizer - Make A New Ace!</h1>
 
       <CharacterSelector
@@ -124,13 +143,13 @@ function App() {
             const result = await response.json();
             setOptimizeResult(result);
           }}
-          className="px-8 py-2.5 text-base cursor-pointer"
+          className="bg-gradient-to-b from-green-400 to-green-600 text-white font-bold rounded-full px-8 py-2 shadow cursor-pointer border-none"
         >
           Optimize
         </button>
       </div>
 
-      {optimizeResult && <ResultsDisplay result={optimizeResult} />}
+      {optimizeResult && <div ref={resultsRef}><ResultsDisplay result={optimizeResult} /></div>}
     </div>
   );
 }

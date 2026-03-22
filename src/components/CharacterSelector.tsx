@@ -93,8 +93,10 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
           />
         </button>
         {selectedCharacter && (
-          <p className="text-center mt-1">
-            {selectedCharacter.name_en}
+          <p className="mt-1 text-center">
+            <span className="inline-block bg-gradient-to-b from-green-400 to-green-600 text-white text-sm font-bold rounded-full px-4 py-1 shadow">
+              {selectedCharacter.name_en}
+            </span>
           </p>
         )}
       </div>
@@ -104,7 +106,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
           className="fixed inset-0 bg-black/70 flex items-center justify-center z-[1000]"
           onClick={handleModalBackdropClick}
         >
-          <div className="bg-white rounded-xl p-5 max-w-[800px] max-h-[80vh] w-[90%] overflow-hidden flex flex-col">
+          <div className="bg-white dark:bg-gray-800 rounded-xl p-5 max-w-[800px] max-h-[80vh] w-[90%] overflow-hidden flex flex-col">
             <div className="flex justify-between items-center mb-5">
               <h2>Select Character</h2>
               <button
@@ -120,7 +122,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
               placeholder="Search characters..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="p-2.5 mb-5 border border-gray-300 rounded text-base w-full"
+              className="p-2.5 mb-5 border border-gray-300 dark:border-gray-600 dark:bg-gray-700 rounded text-base w-full"
             />
 
             <div className="grid gap-2.5 overflow-y-auto max-h-[400px]"
@@ -130,7 +132,7 @@ export function CharacterSelector({ selectedCharacter, onCharacterSelect }: Char
                 <button
                   key={character.name_en}
                   onClick={() => handleCharacterSelect(character)}
-                  className="cursor-pointer flex flex-col items-center p-1 rounded-lg border-none bg-transparent transition-colors duration-200 hover:bg-gray-100"
+                  className="cursor-pointer flex flex-col items-center p-1 rounded-lg border-none bg-transparent transition-colors duration-200 hover:bg-gray-100 dark:hover:bg-gray-700"
                 >
                   <img
                     src={getCharacterImagePath(character)}
